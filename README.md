@@ -5,13 +5,12 @@ it's a freecodecamp project in the "Information Security and Quality Assurance P
 
 bonus*: 
 - Front-end using React
-- Validation using Joi
 
 ### Tools used
 
 **Front-end:** React
 
-**Back-end:** Express, Helmet
+**Back-end:** Express, Helmet, Axios
 
 **Database:** Mongodb
 
