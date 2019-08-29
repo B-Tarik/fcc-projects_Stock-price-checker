@@ -4,7 +4,7 @@
 it's a freecodecamp project in the "Information Security and Quality Assurance Projects" module, you have to build an API that will receive a stock name and return a json containing the stock informations.
 
 bonus*: 
-- Front-end using React
+- Front-end using React, Sass, Responsive Design
 
 ### Tools used
 
